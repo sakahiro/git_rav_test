@@ -1,3 +1,8 @@
+PATH
+  remote: ../git_rav
+  specs:
+    git_rav (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -196,6 +201,7 @@ DEPENDENCIES
   capybara (>= 2.15)
   chromedriver-helper
   coffee-rails (~> 4.2)
+  git_rav!
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   puma (~> 3.11)
