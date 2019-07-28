@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
+<?xmlversion="1.0"encoding="UTF-8"?>
+<!DOCTYPEplistPUBLIC"-//Apple//DTDPLIST1.0//EN""http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plistversion="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
@@ -49,7 +49,7 @@
 		<true/>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>For barcode scanning</string>
+	<string>Forbarcodescanning</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>商品の画像を選択できるようになります</string>
 	<key>UILaunchStoryboardName</key>
